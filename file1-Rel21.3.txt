@@ -12,7 +12,7 @@ line1
 Linne2
 Line3
 }
-New code added to test NCTECH new Feature tab by Himanshu veerma
+New code added by chinny to add new feature on nctech website
 {
 }
 
